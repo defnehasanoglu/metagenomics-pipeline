@@ -1,6 +1,7 @@
 # 🧬 Metagenomics Data Analysis Pipeline
 
-(This is for an MSc project)  
+(This is for a MSc project)
+
 This pipeline represents a template for metagenomics data analysis, from raw data to annotation of Metagenome-Assembled Genomes (MAGs).
 
 ---
